@@ -15,6 +15,7 @@ public class ArrayListInt {
         nums.add(2);
         nums.add(3);
         nums.add(5);
+        nums.add(2);
 
         int count = counterCatch(nums, 2);
         System.out.println(count);
